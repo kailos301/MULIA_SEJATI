@@ -64,18 +64,12 @@ This project was created using the following technologies.
 --- - 
 ![img-5](https://github.com/berthutapea/msnproduction.com/assets/111676859/e1301e3f-0dbb-44c6-a0b6-d973087f6140)
 
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Gilbert Hutapea
+Copyright (c) 2022 Chan Shing On
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
